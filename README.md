@@ -33,12 +33,18 @@
 ### 🛠 &nbsp;Tech Stack
 ![Static Badge](https://img.shields.io/badge/React-%23008ECF?style=flat-square&logo=React&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&labelColor=black)
-![Static Badge](https://img.shields.io/badge/NodeJS-Green?style=flat-square&logo=Node.js&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Express-%23000000?style=flat-square&logo=express&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/Boostrap-%237952B3?style=flat-square&logo=Bootstrap&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&labelColor=black)
 
+![Static Badge](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=nextdotjs&labelColor=black)
+![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=flat-square&logo=csharp&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Ms%20SQL%20Server-%23CC2927?style=flat-square&logo=microsoftsqlserver&labelColor=black)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&labelColor=black)
+![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&labelColor=black)
 
 
 
