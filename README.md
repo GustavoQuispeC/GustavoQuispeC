@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gustavo Quispe</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/GustavoQuispeC)
-![GitHub User's stars](https://img.shields.io/github/stars/GustavoQuispeC)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GustavoQuispeC.repoName) 
+![GitHub followers](https://img.shields.io/github/followers/GustavoQuispeC?style=social&logoColor=%23204ECF)
+![GitHub User's stars](https://img.shields.io/github/stars/GustavoQuispeC?logoColor=%23204ECF)
+
 
 ## About Me :
 
@@ -24,20 +24,23 @@
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+### 🛠 &nbsp;Tech Stack
+![Static Badge](https://img.shields.io/badge/React-%23008ECF?style=flat-square&logo=React&labelColor=black)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/NodeJS-Green?style=flat-square&logo=Node.js&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Boostrap-%237952B3?style=flat-square&logo=Bootstrap&labelColor=black)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&labelColor=black)
+![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&labelColor=black)
 
-<br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
-<br>
 
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 
