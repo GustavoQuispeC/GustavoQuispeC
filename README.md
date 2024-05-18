@@ -33,7 +33,12 @@
 ### 🛠 &nbsp;Tech Stack
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=flat-square&logo=csharp&labelColor=black)
+![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&labelColor=black)
+
+
 ![Static Badge](https://img.shields.io/badge/React-%23008ECF?style=flat-square&logo=React&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Blazor-%23512BD4?style=flat-square&logo=blazor&labelColor=black)
+![Static Badge](https://img.shields.io/badge/.NET-%23512BD4?style=flat-square&logo=dotnet&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Express-%23000000?style=flat-square&logo=express&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=nextdotjs&labelColor=black)
 
