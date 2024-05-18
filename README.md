@@ -16,7 +16,7 @@
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoQuispeC" alt="GustavoQuispeC" /> </p>
 ## Connect with me ☕ :
 
 <br>
