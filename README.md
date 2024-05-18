@@ -28,9 +28,6 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-
-
-
 <br>
 
 ### 🛠 &nbsp;Tech Stack
@@ -60,17 +57,15 @@
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=flat-square&logo=visualstudio&labelColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
-
-
-
-
-
-
-
 ## 📈 Github Profile Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoQuispeC&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=GustavoQuispeC&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=GustavoQuispeC&theme=chartreuse-dark"></p>
+
+------
+
+ Credit: [GustavoQuispeC](https://github.com/GustavoQuispeC)
+
+Last Edited on: 17/05/2024
 
 
