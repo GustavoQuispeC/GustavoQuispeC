@@ -24,7 +24,7 @@
 <a target="_blank" href="mailto:gusstavocta@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a href="https://discord.com/usuarios/1072712589198495795">
+<a href="https://discord.com/usuarios/gusstavo3932">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
