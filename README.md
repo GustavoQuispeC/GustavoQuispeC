@@ -1,22 +1,21 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gustavo Quispe</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gustavo </h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/GustavoQuispeC?style=social&logoColor=%23204ECF)
 ![GitHub User's stars](https://img.shields.io/github/stars/GustavoQuispeC?logoColor=%23204ECF)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoQuispeC" alt="GustavoQuispeC" /> </p>
 
 ## About Me :
 
 - 🌱 I’m currently learning: English B2.
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
 - 🎓 Studies in Systems Engineering conducted at [Universidad Tecnológica del Perú](https://www.utp.edu.pe)
 - 🎓 Full Stack Development studies at [SoyHenry](http:/www.soyhenry.com/)
 - 🏡'I live in Peru, in the city of Lima.**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoQuispeC" alt="GustavoQuispeC" /> </p>
+
 ## Connect with me ☕ :
 
 <br>
@@ -52,15 +51,8 @@
 
 
 ## 📈 Github Profile Stats
-
-<p align="center">
-    <a href="https://github.com/GustavoQuispeC">
-        <img height="180em" src="https://streak-stats.demolab.com?user=GustavoQuispeC&theme=tokyonight&hide_border=true&border_radius="/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoQuispeC&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoQuispeC&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
-    </a>
-</p>
-
-<br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoQuispeC&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=GustavoQuispeC&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=GustavoQuispeC&theme=chartreuse-dark"></p>
 
 
