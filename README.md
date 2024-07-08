@@ -53,7 +53,7 @@
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=flat-square&logo=visualstudio&labelColor=black)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## 📈 Github Profile Stats
+## 📈 Estadistica del perfil Github
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoQuispeC&layout=compact&hide=TSQL&theme=chartreuse-dark"> &nbsp;&nbsp;&nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=GustavoQuispeC&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400">
@@ -63,8 +63,8 @@
 
 ------
 
- Credit: [GustavoQuispeC](https://github.com/GustavoQuispeC)
+ Créditos: [GustavoQuispeC](https://github.com/GustavoQuispeC)
 
-Last Edited on: 17/05/2024
+Ultima edición: 17/05/2024
 
 
