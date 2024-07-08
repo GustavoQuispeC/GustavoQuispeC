@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Gustavo </h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Gustavo </h1>
 
   ![GitHub followers](https://img.shields.io/github/followers/GustavoQuispeC?style=social&logoColor=%23204ECF)
 ![GitHub User's stars](https://img.shields.io/github/stars/GustavoQuispeC?logoColor=%23204ECF)
@@ -9,14 +9,14 @@
 
 
 
-## About Me :
-- 🌱 I’m currently learning: English B2.
-- 🎓 Studies in Systems Engineering conducted at [Universidad Tecnológica del Perú](https://www.utp.edu.pe)
-- 🎓 Full Stack Development studies at [SoyHenry](http:/www.soyhenry.com/)
-- 🏡'I live in Peru, in the city of Lima.**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+## Sobre mí :
+- 🌱 Actualmente estoy aprendiendo ingles B1.
+- 🎓 Estudios de Ingeniería de Sistemas realizados en la [Universidad Tecnológica del Perú](https://www.utp.edu.pe)
+- 🎓 Estudios de Desarrollo Full Stack en [SoyHenry](http:/www.soyhenry.com/)
+- 🏡 Actualmente vivo en la ciudad de Lima - Perú.
+- ⚡ **Otras actividades** : 🍕 🏉 🏏 🎥 🚞
 
-## Connect with me ☕ :
+## Conectate conmmigo ☕ :
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/gustavoquispe"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Conocimiento en las siguientes tecnologías
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&labelColor=black)&nbsp;
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=flat-square&logo=csharp&labelColor=black)&nbsp;
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&labelColor=black)&nbsp;
