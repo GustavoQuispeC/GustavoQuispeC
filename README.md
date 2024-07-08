@@ -16,7 +16,7 @@
 - 🏡 Actualmente vivo en la ciudad de Lima - Perú.
 - ⚡ **Otras actividades** : 🍕 🏉 🏏 🎥 🚞
 
-## Conectate conmmigo ☕ :
+## Conéctate conmmigo ☕ :
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/gustavoquispe"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
