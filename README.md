@@ -12,7 +12,7 @@
 ## Sobre mí :
 - 🌱 Actualmente estoy aprendiendo ingles B1.
 - 🎓 Estudios de Ingeniería de Sistemas realizados en la [Universidad Tecnológica del Perú](https://www.utp.edu.pe)
-- 🎓 Estudios de Desarrollo Full Stack en [SoyHenry](http:/www.soyhenry.com/)
+- 🎓 Estudios de Desarrollo Full Stack en ##BootCamp## [SoyHenry](http:/www.soyhenry.com/)
 - 🏡 Actualmente vivo en la ciudad de Lima - Perú.
 - ⚡ **Otras actividades** : 🍕 🏉 🏏 🎥 🚞
 
