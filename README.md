@@ -24,7 +24,7 @@
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 <a href="https://www.gustavo-dev.com">
-  <img src="https://img.shields.io/badge/Google-7289DA?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-7289DA?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
 
 ## 🛠 &nbsp;Conocimiento en las siguientes tecnologías
