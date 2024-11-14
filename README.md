@@ -10,7 +10,7 @@
 
 
 ## Sobre mí :
-- 🌱 Actualmente estoy aprendiendo ingles B1.
+- 🌱 Actualmente estoy aprendiendo Java.
 - 🎓 Estudios de Ingeniería de Sistemas realizados en la [Universidad Tecnológica del Perú](https://www.utp.edu.pe)
 - 🎓 Estudios de Desarrollo Full Stack en [Henry](http:/www.soyhenry.com/)
 - 🏡 Actualmente vivo en la ciudad de Lima - Perú.
